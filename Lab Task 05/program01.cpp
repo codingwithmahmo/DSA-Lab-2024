@@ -1,3 +1,7 @@
+//program 01 Lab Task 05
+//Data Structures and Algorithms
+//Mahmood Khan 56067 - Bachelor of Science in Software Engineering
+
 #include <iostream>
 using namespace std;
 
