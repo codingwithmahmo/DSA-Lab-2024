@@ -1,3 +1,7 @@
+//Program 02 - Lab Task 05
+//Data Structures and Algorithms
+//Mahmood Khan - 56067
+
 #include <iostream>
 using namespace std;
 
